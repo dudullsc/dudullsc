@@ -47,6 +47,7 @@ Trabalho com tecnologia unindo **hardware, infraestrutura e desenvolvimento de s
 
 | Projeto | Descrição |
 |---|---|
+| [controle-contas-showcase](https://github.com/dudullsc/controle-contas-showcase) | Controle financeiro pessoal full stack — Next.js, Python (FastAPI), MongoDB, app mobile (Capacitor) e deploy GitOps com Kubernetes + Argo CD |
 | [bot_discord](https://github.com/dudullsc/bot_discord) | Bot de música para Discord com painel web — Python, Lavalink, PostgreSQL, Docker e Kubernetes |
 | [script-add-agent_zabbix-agent_proxmox](https://github.com/dudullsc/script-add-agent_zabbix-agent_proxmox) | Instalação automática do Zabbix Agent 7.0 LTS + Proxmox Guest Agent em Debian/Ubuntu |
 | [scripts-system](https://github.com/dudullsc/scripts-system) | Coleção de scripts Shell para automação de servidores Linux |
